@@ -209,22 +209,6 @@ body {
 	background-image: url(./images/floor.png)
 }
 
-@font-face {
-	font-family:'frankfurter-medium-plain';src:url(./font/frankfurter-medium-plain.eot);src:url(./font/frankfurter-medium-plain.eot?#iefix) format('embedded-opentype'),url(./font/frankfurter-medium-plain.woff) format('woff'),url(./font/frankfurter-medium-plain.ttf) format('truetype'),url(./font/frankfurter-medium-plain.svg#frankfurter-medium-plain) format('svg');font-weight:400;font-style:normal
-}
-
-@font-face {
-	font-family:'frankfurter-plain';src:url(./font/frankfurter-plain.eot);src:url(./font/frankfurter-plain.eot?#iefix) format('embedded-opentype'),url(./font/frankfurter-plain.woff) format('woff'),url(./font/frankfurter-plain.ttf) format('truetype'),url(./font/frankfurter-plain.svg#frankfurter-plain) format('svg');font-weight:400;font-style:normal
-}
-
-@font-face {
-	font-family:'Shadows Into Light, cursive;';src:url(./font/ShadowsIntoLight-Regular.ttf);src:url(./font/ShadowsIntoLight-Regular.ttf#iefix) format('embedded-opentype'),url(./font/ShadowsIntoLight-Regular.ttf) format('woff'),url(./font/ShadowsIntoLight-Regular.ttf) format('truetype'),url(./font/ShadowsIntoLight-Regular.ttf) format('svg');font-weight:400;font-style:normal
-}
-
-@font-face {
-	font-family:'poster-sans-bold';src:url(./font/poster-sans-bold.eot);src:url(./font/poster-sans-bold.eot?#iefix) format('embedded-opentype'),url(./font/poster-sans-bold.woff) format('woff'),url(./font/poster-sans-bold.ttf) format('truetype'),url(./font/poster-sans-bold.svg#poster-sans-bold) format('svg');font-weight:400;font-style:normal
-}
-
 
 .gate {
 	position: absolute;
@@ -583,7 +567,7 @@ img {
 	pointer-events: auto; 
 	align-items: center;
 	top:533px;
-	left:3750px;
+	left:5050px;
 	
   }
 
